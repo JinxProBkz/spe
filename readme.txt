@@ -6,15 +6,19 @@ https://www.python.org/downloads/
 py -m pip install pandas
 py -m pip install paramiko
 py -m pip install requests
+(jika ada modul yang kurang instal saja mengikuti command ini)
+
 3. Check apakah python berhasil terinstal dengan cmd ini:
 python --version
 py --version
 
 
 ## Prequest App##
-Script ini bekerja dengan melakukan SSH Ke Multiple Device , Dengan List Device dan
+Script ini bekerja dengan melakukan SSH Ke Multiple Device  Melalui List Device dan
 command yang dapat di custom sesuai kebutuhan,
-Untuk Memasukan list dive yang akan di SSH cukup ubah ssh_device.csv dan isi sesuai format
+
+Untuk Memasukan list device yang akan di SSH cukup ubah ssh_device.csv dan isi sesuai format
+
 Untuk memasukan command yang diinginkan silakan ubah file ssh_commands.txt
 
 
