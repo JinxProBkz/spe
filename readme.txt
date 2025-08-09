@@ -5,6 +5,7 @@ https://www.python.org/downloads/
 2. script ini membutuhkan module paramiko. setelah instal python buka cmd dan type:
 py -m pip install pandas
 py -m pip install paramiko
+py -m pip install requests
 3. Check apakah python berhasil terinstal dengan cmd ini:
 python --version
 py --version
@@ -28,5 +29,6 @@ Untuk memasukan command yang diinginkan silakan ubah file ssh_commands.txt
 
 
 HARAP BACA LICENSE SEBELUM MENGGUNAKAN
+
 
 
