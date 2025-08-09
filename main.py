@@ -1,5 +1,6 @@
 import os
 import subprocess
+import requests
 import getpass
 
 def print_ascii_art():
@@ -150,3 +151,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
