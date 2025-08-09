@@ -1,0 +1,88 @@
+ter len 0
+show ver 
+show clock 
+show run 
+show start 
+show int 
+show ip int br 
+show ip nat trans
+show int status 
+show int des 
+show int trunk 
+show etherchannel 
+show etherchannel sum 
+show etherchannel prot 
+show etherchannel detail 
+show etherchannel port 
+show port-channel sum 
+show port-channel usage 
+show port-channel database 
+show port-channel traffic 
+show int status | i connected 
+show cdp nei 
+show cdp nei de 
+show spanning 
+show span sum 
+show span root 
+show span active 
+show span active brief 
+show span active detail 
+show span detail 
+show mac-address-table 
+show mac address 
+show ip arp 
+show ip arp sum 
+show ip arp vpc 
+show vlan br 
+show vlan sum 
+show vtp status 
+show vtp password 
+show vtp domain 
+show standby br 
+show standby br 
+show vpc br 
+show redundancy 
+show redundancy state 	
+show logg 
+show inv 
+show switch 
+show inv raw 
+show switch 
+show flash 
+show license 
+show license usage 
+show hardware 
+dir bootflash: 
+dir 
+show module 
+show env 
+show env status 
+show env all 
+show env pow 
+show env temp 
+show env fan 
+show system resources 
+show power 
+show environment status fan-tray 
+show sdwan run 
+show sdwan certificate serial 
+show platform 
+show ip route 
+show ip route static 
+show ip ospf 
+show ip ospf nei 
+show ip ospf sum 
+show ip ospf database 
+show ip eigrp nei 
+show ip eigrp topology 
+show ip bgp 
+show ip bgp sum 
+show ip bgp nei 
+show ip dhcp pool 
+show ip dhcp database 
+show ip dhcp server statistics 
+show vlan private-vlan
+show proc cpu
+show proc mem
+show platform resource
+wr
