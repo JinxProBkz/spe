@@ -1,3 +1,4 @@
+For Download Just Click "Code" on Menu and Download the Zip
 
 ## Prequest  Python ##
 1.Script ini Menggunakan Python. harap menginstal python terlebih dahulu (versi bebas)
@@ -33,6 +34,7 @@ Untuk memasukan command yang diinginkan silakan ubah file ssh_commands.txt
 
 
 HARAP BACA LICENSE SEBELUM MENGGUNAKAN
+
 
 
 
